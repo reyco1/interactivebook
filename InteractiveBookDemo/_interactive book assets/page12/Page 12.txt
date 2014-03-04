@@ -1,0 +1,20 @@
+12 name
+(13 pdf)
+
+use 8
+
+
+Illustration:
+Jose is happy again and turns back towards Coqui
+Script:
+“I know something that I love from Puerto Rico that I can take with me. It’s not big, it won’t melt, it’s not yummy or heavy!” Says Jose.
+
+“Really?!”, replies Coqui.
+
+“Yes! It’s you Coqui! I can take you! Says Jose very happily. Coqui is so happy to hear those words. So happy that he begins to sing his favorite song in the whole world! “Coqui, Coqui, Coqui, Coqui”
+
+Instructions:
+Touch the guitar to strum it and help Coqui sing his song. Perfect
+
+Interaction:
+Place a guitar on the stage that the user can press… When pressed, play a guitar note and a “Coqui” sound. 4 strums brings up the next button. Perfect maybe more then 4?
